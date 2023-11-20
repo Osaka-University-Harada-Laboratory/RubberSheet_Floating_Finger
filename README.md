@@ -5,7 +5,7 @@
 発表タイトル：**柔軟膜を用いたオープンソースなフローティングフィンガー機構**
 
 <!-- ![Overview](/images/SI2023_fig_overview.png) -->
-<img width="50" src="/images/SI2023_fig_overview.png">
+<img width="50%" src="/images/SI2023_fig_overview.png">
 
 ## パーツ
 
@@ -56,7 +56,11 @@
 ## 組み立て手順
 
 <!-- ![組み立て](/images/SI2023_fig_CAD_2.png) -->
-<img width="50" src="/images/SI2023_fig_CAD_2.png">
+<img width="50%" src="/images/SI2023_fig_CAD_2.png">
+
+
 
 ## 備考
+- センサカバーにはセンサ基板に対して約0.2mmのクリアランスを設けている．
+- 本研究は株式会社Thinker との共同研究の一環として実施された．
 
