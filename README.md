@@ -4,7 +4,8 @@
 第24回計測自動制御学会システムインテグレーション部門講演会(SI2023)において発表．<br>
 発表タイトル：**柔軟膜を用いたオープンソースなフローティングフィンガー機構**
 
-![Overview](/images/SI2023_fig_overview.png)
+<!-- ![Overview](/images/SI2023_fig_overview.png) -->
+<img width="50" src="/images/SI2023_fig_overview.png">
 
 ## パーツ
 
@@ -54,7 +55,8 @@
 
 ## 組み立て手順
 
-![組み立て](/images/SI2023_fig_CAD_2.png)
+<!-- ![組み立て](/images/SI2023_fig_CAD_2.png) -->
+<img width="50" src="/images/SI2023_fig_CAD_2.png">
 
 ## 備考
 
