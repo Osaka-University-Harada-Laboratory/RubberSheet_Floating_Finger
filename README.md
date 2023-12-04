@@ -22,7 +22,7 @@
      - モデル材：AR-M2
      - サポート材：AR-S1
   1. **FDM式3Dプリンター (Zortrax M200 Plus)**
-     - フィラメント：Z-URTLAT (ABS系樹脂)
+     - フィラメント：Z-ULTRAT (ABS系樹脂)
 
 ### Floating-Fingerの基部
 該当CADファイル：RSFF_cover_2_v2_clearance\
