@@ -16,6 +16,7 @@
 製品URL：https://www.thinker-robotics.co.jp/
 
 ### センサカバー
+<img width="40%" src="\images\RSFF_sensor_cover.png">\
 該当CADファイル：RSFF_cover_1_v3_clearance\
 作成方法：研究室では以下の2種類の3Dプリンターで作成．いずれの場合でも運用可能であることを確認．
   1. **光造形式3Dプリンター (AGILISTA-3200)**
@@ -25,28 +26,35 @@
      - フィラメント：Z-ULTRAT (ABS系樹脂)
 
 ### Floating-Fingerの基部
+<img width="40%" src="\images\RSFF_base.png">\
 該当CADファイル：RSFF_cover_2_v2_clearance\
 作成方法：センサカバーと同じ
 
 ### 柔軟膜
+<img width="40%" src="\images\RSFF_rubber_sheet.png">\
 該当CADファイル：RubberSheet_1\
 材料：市販の飴ゴムシート　[購入先リンク](https://www.monotaro.com/g/01013365/?t.q=%E9%A3%B4%E3%82%B4%E3%83%A0%E3%82%B7%E3%83%BC%E3%83%88)\
 作成方法：RubberSheet_1を3Dプリンターで印刷したパーツをもとに切り取る
 
 ### 爪
+<img width="40%" src="\images\RSFF_tip.png">\
 該当CADファイル：RSFF_tip_metal_1\
 素材：アルミニウム\
 作成方法：meviyを利用し外注　[meviyリンク](https://meviy.misumi-ec.com/ja-jp/)
 
+
 ### 爪と柔軟膜の接続部分
+<img width="40%" src="\images\RSFF_tipmount.png">\
 該当CADファイル：RSFF_tip_mount_1\
 作成方法：センサカバーと同じ
 
 ### 反射板
+<img width="40%" src="\images\RSFF_reflector.png">\
 該当CADファイル：RSFF_reflector_v2\
 作成方法：センサカバーと同じ
 
 ### COBOTTAの手先との接続部分
+<img width="40%" src="\images\RSFF_mount.png">\
 該当CADファイル：RSFF_mount_1_clearance, RSFF_mount_1_clearance_MIR1\
 作成方法：センサカバーと同じ
 
