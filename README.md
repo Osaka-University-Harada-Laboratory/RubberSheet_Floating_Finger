@@ -23,39 +23,46 @@
      - サポート材：AR-S1
   1. **FDM式3Dプリンター (Zortrax M200 Plus)**
      - フィラメント：Z-ULTRAT (ABS系樹脂)
-\<img width="20%" src="\images\RSFF_sensor_cover.png">
+<img width="20%" src="\images\RSFF_sensor_cover.png">
+\
 
 ### Floating-Fingerの基部
 該当CADファイル：RSFF_cover_2_v2_clearance\
 作成方法：センサカバーと同じ
-\<img width="20%" src="\images\RSFF_base.png">
+<img width="20%" src="\images\RSFF_base.png">
+\
 
 ### 柔軟膜
 該当CADファイル：RubberSheet_1
 材料：市販の飴ゴムシート　[購入先リンク](https://www.monotaro.com/g/01013365/?t.q=%E9%A3%B4%E3%82%B4%E3%83%A0%E3%82%B7%E3%83%BC%E3%83%88)\
 作成方法：RubberSheet_1を3Dプリンターで印刷したパーツをもとに切り取る
-\<img width="20%" src="\images\RSFF_rubber_sheet.png">
+<img width="20%" src="\images\RSFF_rubber_sheet.png">
+\
 
 ### 爪
 該当CADファイル：RSFF_tip_metal_1\
 素材：アルミニウム\
 作成方法：meviyを利用し外注　[meviyリンク](https://meviy.misumi-ec.com/ja-jp/)
-\<img width="20%" src="\images\RSFF_tip.png">
+<img width="20%" src="\images\RSFF_tip.png">
+\
 
 ### 爪と柔軟膜の接続部分
 該当CADファイル：RSFF_tip_mount_1\
 作成方法：センサカバーと同じ
-\<img width="20%" src="\images\RSFF_tipmount.png">
+<img width="20%" src="\images\RSFF_tipmount.png">
+\
 
 ### 反射板
 該当CADファイル：RSFF_reflector_v2\
 作成方法：センサカバーと同じ
-\<img width="20%" src="\images\RSFF_reflector.png">
+<img width="20%" src="\images\RSFF_reflector.png">
+\
 
 ### COBOTTAの手先との接続部分
 該当CADファイル：RSFF_mount_1_clearance, RSFF_mount_1_clearance_MIR1\
 作成方法：センサカバーと同じ
-\<img width="20%" src="\images\RSFF_mount.png">
+<img width="20%" src="\images\RSFF_mount.png">
+\
 
 ## 道具
 - ハサミ
