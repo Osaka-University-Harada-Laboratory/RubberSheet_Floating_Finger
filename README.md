@@ -1,15 +1,15 @@
-# RubberSheet Floating-Finger 
+# オープンソース版フローティングフィンガー（近接覚センサTK-01使用）
 
 ## 概要
-3Dビジョンレスばら積みピッキングや突き指防止機能を持つ柔軟機構・センシングユニット．
+- 3Dビジョンレスばら積みピッキングや突き指防止機能を持つ柔軟機構・センシングユニット．
 
-第24回計測自動制御学会システムインテグレーション部門講演会(SI2023)において発表．<br>
+- 具体的な組立手順はYouTubeに公開 ---> https://youtu.be/J7uZkjt3QmM
+
+- 第24回計測自動制御学会システムインテグレーション部門講演会(SI2023)において発表．<br>
 発表タイトル：**柔軟膜を用いたオープンソースなフローティングフィンガー機構**
 
 <!-- ![Overview](/images/SI2023_fig_overview.png) -->
 <img width="50%" src="/images/SI2023_fig_overview.png">
-
-具体的な組立手順は以下のリンク先で公開．
 
 ## パーツ
 - ipt：inventor向けCADデータ (.ipt, .iam)
@@ -20,7 +20,7 @@
 - 株式会社Thinker製の近接覚センサ"TK-01"を使用
 - 以下から見積もり・購入が可能
 
-https://www.thinker-robotics.co.jp/contact
+  https://www.thinker-robotics.co.jp/contact
 
 ### センサケース
 - 該当CADファイル：RSFF_cover_1_v3_clearance\
@@ -33,7 +33,6 @@ https://www.thinker-robotics.co.jp/contact
 - 該当CADファイル：RSFF_cover_2_v2_clearance\
 - 3Dプリンタで製作
 
-作成方法：センサカバーと同じ
 <br><br>
 <img width="20%" src="\images\RSFF_base.png">
 
@@ -73,9 +72,9 @@ https://www.thinker-robotics.co.jp/contact
 - ハサミ
 - ボルト(M2×8：4個，M2×10：5個)
 - ナット(M2)
-- 瞬間接着剤（アロンアルファ）
+- 瞬間接着剤（アロンアルファ，他種の接着剤では接着力が減少する場合があるので注意）
 - 白い紙
-- 黒色無双（低反射黒インク）
+- 低反射黒インク（「黒色無双」相当品）[購入先リンク](https://www.amazon.co.jp/dp/B08JYK85HP/?m=A3NCQXDSLN8VX8)\
 - 筆
 
 ### 使用実績のある3Dプリンタ
@@ -91,7 +90,7 @@ https://www.thinker-robotics.co.jp/contact
 
 ## 構造図
 
-- 具体的な組立手順は以下の動画参照のこと
+- 具体的な組立手順はこちら ---> https://youtu.be/J7uZkjt3QmM
 
 <!-- ![組み立て](/images/SI2023_fig_CAD_2.png) -->
 <img width="50%" src="/images/SI2023_fig_CAD_2.png">
